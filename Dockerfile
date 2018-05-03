@@ -1,3 +1,3 @@
 FROM kennychennetman/lab:cratch
-COPY files/1.txt /1.txt
+COPY files/2.txt /2.txt
 CMD ["/bin/sh"]
